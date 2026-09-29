@@ -16,7 +16,11 @@ A Unity URP prototype exploring soft-body-style "jelly" deformation entirely in 
 
 ## Media
 
-_Screenshot/recording coming soon._
+https://github.com/user-attachments/assets/ed6ba8f2-23aa-424c-928d-530bff646ef8
+<img width="690" height="386" alt="Screenshot 2026-09-29 at 10 43 06 AM" src="https://github.com/user-attachments/assets/1bc91375-6f0c-438c-accd-6f3cee43c489" />
+<img width="710" height="299" alt="Screenshot 2026-09-29 at 10 42 48 AM" src="https://github.com/user-attachments/assets/a6a4a112-908d-433e-b4dd-ddccc261bc3d" />
+
+
 
 ## Requirements
 
